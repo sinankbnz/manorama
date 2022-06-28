@@ -1,0 +1,1 @@
+var currentDate = Date.now();
